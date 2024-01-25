@@ -7,6 +7,12 @@ PostgreSQL/SQL Server + ASP.NET Core + Vue3:
 - LMS for add new courses
 - Finance API in APP, indexes, news api, signals and graphics, mini trade engine
 
+По проекту брать шаблон ддд асп нет кор, 
+https://github.com/kgrzybek/modular-monolith-with-ddd, 
+короче посмотреть несколько шаблонов и тупо выбрать один, сделать небольшое проектирование проекта, декомпозицию и тд, посмотреть на сколько большая реализация и стоит ли делать модуля или, короче смотреть. 
+Перед написанием выбранные шаблоны изучить
+
+
 Оформить как надо
   О проекте
   Список фич
