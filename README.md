@@ -1,46 +1,22 @@
 # education_platform_for_finance
 - Небольшая платформа по финансовой грамотности, особенностях торговли на финансовых рынках со встроенным интеллектуальным помощником.
-
-## Features
-- [ ] Monolitic or DDD 
-- [ ] 
-- [ ]  
-- [ ] 
-- [ ] 
-- [ ] 
-PostgreSQL/SQL Server + ASP.NET Core + Vue3:
 - CMS + LMS + Finance API - обучения трейдингу
 - Nuclear - APP for teach trading with Finance API, mini help features
 - And + CMS for blog, sale information
 - LMS for add new courses
 - Finance API in APP, indexes, news api, signals and graphics, mini trade engine
+  
+## Features
+- [ ] Monolitic or DDD
+- [ ] 
+- [ ]  
+- [ ] 
+- [ ] 
 
-Roadmap
-- 
+## Stack
+- Взять либо из Monolitic либо из DDD
 
-
-По проекту брать шаблон ддд асп нет кор, 
-https://github.com/kgrzybek/modular-monolith-with-ddd, 
-короче посмотреть несколько шаблонов и тупо выбрать один, сделать небольшое проектирование проекта, декомпозицию и тд, посмотреть на сколько большая реализация и стоит ли делать модуля или, короче смотреть. 
-Перед написанием выбранные шаблоны изучить
-
-
-Оформить как надо
-  Roadmap
-
-
-## 1 Введение
-
-Универсальная платформа изучения английского языка
-
-Концепция создания онлайн тренировочного курса по типу: 
-
-- Lingualeo
-- https://brilliant.org/
-- https://www.codecademy.com/learn/paths/front-end-engineer-career-path
-- https://exercism.org/
-- https://multilang.io/ru/uchit-anglijskie-slova
-
+Это все переписать о платформе
 В общем необходимо сделать платформу: 
 
 1. Человек заходит и плафторма предлагает протестировать свой уровень английского
