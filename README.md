@@ -2,13 +2,12 @@
 - Небольшая платформа по финансовой грамотности, особенностях торговли на финансовых рынках со встроенным интеллектуальным помощником.
 
 ## Features
-[ ] - Monolitic or DDD 
-[ ] - 
-[ ] - 
-[ ] - 
-[ ] - 
-[ ] - 
-список всех фич и галочка
+- [ ] Monolitic or DDD 
+- [ ] 
+- [ ]  
+- [ ] 
+- [ ] 
+- [ ] 
 PostgreSQL/SQL Server + ASP.NET Core + Vue3:
 - CMS + LMS + Finance API - обучения трейдингу
 - Nuclear - APP for teach trading with Finance API, mini help features
