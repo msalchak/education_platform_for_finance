@@ -1,10 +1,13 @@
 # education_platform_for_finance
+- Небольшая платформа по финансовой грамотности, особенностях торговли на финансовых рынках со встроенным интеллектуальным помощником.
 
-### О проекте
-- Небольшая платформа для создания курсов по финансовой грамотности, особенностях торговли на финансовых рынках со встроенным интеллектуальным помощником
-
-### Features
-- 
+## Features
+[ ] - Monolitic or DDD 
+[ ] - 
+[ ] - 
+[ ] - 
+[ ] - 
+[ ] - 
 список всех фич и галочка
 PostgreSQL/SQL Server + ASP.NET Core + Vue3:
 - CMS + LMS + Finance API - обучения трейдингу
@@ -38,7 +41,6 @@ https://github.com/kgrzybek/modular-monolith-with-ddd,
 - https://www.codecademy.com/learn/paths/front-end-engineer-career-path
 - https://exercism.org/
 - https://multilang.io/ru/uchit-anglijskie-slova
-- https://www.youtube.com/watch?v=CXLVAiBI1S0&list=LL&index=3
 
 В общем необходимо сделать платформу: 
 
