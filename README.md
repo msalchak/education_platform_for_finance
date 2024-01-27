@@ -1,5 +1,11 @@
 # education_platform_for_finance
 
+# О проекте
+- Небольшая платформа для создания курсов по финансовой грамотности, особенностях торговли на финансовых рынках со встроенным интеллектуальным помощником
+
+# Features
+- 
+список всех фич и галочка
 PostgreSQL/SQL Server + ASP.NET Core + Vue3:
 - CMS + LMS + Finance API - обучения трейдингу
 - Nuclear - APP for teach trading with Finance API, mini help features
@@ -7,20 +13,17 @@ PostgreSQL/SQL Server + ASP.NET Core + Vue3:
 - LMS for add new courses
 - Finance API in APP, indexes, news api, signals and graphics, mini trade engine
 
+Roadmap
+- 
+
+
 По проекту брать шаблон ддд асп нет кор, 
 https://github.com/kgrzybek/modular-monolith-with-ddd, 
 короче посмотреть несколько шаблонов и тупо выбрать один, сделать небольшое проектирование проекта, декомпозицию и тд, посмотреть на сколько большая реализация и стоит ли делать модуля или, короче смотреть. 
 Перед написанием выбранные шаблоны изучить
 
-Выписать все знания
-Изучить что нужно для проекта
-В особенности архитектурные части
-Пока сделать как монолит (внутри микросервисной)
-Потом версия микросервисная
 
 Оформить как надо
-  О проекте
-  Список фич
   Roadmap
 
 
